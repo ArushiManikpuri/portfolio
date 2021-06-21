@@ -1,0 +1,38 @@
+
+
+.bg{
+ background-color: wheat;
+}
+.card-title{
+    background: whitesmoke;
+    color:#330000;
+}
+h5{
+    background: whitesmoke;
+    color:#330000;
+    
+}
+.card {
+    margin-top: 0.5cm;
+    margin-left: 18cm;
+   
+    
+    
+  }
+  .card-title{
+      margin-bottom: 1cm;
+  }
+  .card-body{
+width: 200;
+  }
+  #piechart{
+      margin-left: 2cm;
+  }
+  #tec{
+      margin-left: 2cm;
+  } 
+  h1{
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  
